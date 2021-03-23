@@ -1,0 +1,10 @@
+
+name=input("как вас зовут? ")
+print ("Привет, ", name)
+a = 0, b = 0, c = 0, d = 0
+ a = input()
+ print a
+  b = input()
+ c = input()
+d=(max(a,b,c))
+print (d)
